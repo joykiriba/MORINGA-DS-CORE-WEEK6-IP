@@ -1,1 +1,1 @@
-# MORINGA-DS-CORE-WEEK6-IP
+As a data scientist at Mchezopesa Ltd and I have been tasked to design models that will predict the result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly  
